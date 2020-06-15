@@ -7,8 +7,7 @@ This repository is for Getting and Cleaning Data course project. It has the inst
 ## Dataset
 [Human Activity Recognition Using Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
-Here are the data for the project:
-
+Or direct link to the zip file for this project:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 ## Files
