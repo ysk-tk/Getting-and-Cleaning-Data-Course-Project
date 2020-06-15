@@ -1,7 +1,6 @@
 # Getting and Cleaning Data Course Project
-Cousera: Getting and Cleaning Data Week 4
+Coursera: Getting and Cleaning Data Week 4
 
-## Getting and Cleaning Data Course Project
 This repository is for Getting and Cleaning Data course project. It has the instructions on how to run analysis on Human Activity recognition dataset.
 
 ## Dataset
