@@ -8,7 +8,7 @@ This repository is for Getting and Cleaning Data course project. It has the inst
 [Human Activity Recognition Using Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 ## Files
-"CodeBook.md" a code book that describes the variables, the data, and any transformations or work that I performed to clean up the data
+'CodeBook.md' 'i+1' a code book that describes the variables, the data, and any transformations or work that I performed to clean up the data
 
 'run_analysis.R' performs the data preparation and then followed by the 5 steps required as described in the course project’s definition:
 Merges the training and the test sets to create one data set.
