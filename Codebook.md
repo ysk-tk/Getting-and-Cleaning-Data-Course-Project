@@ -42,7 +42,7 @@ the 5 steps required as described in the course project’s definition.
     - `X` (10299 rows, 561 columns) is created by merging `x_train` and `x_test` using __rbind()__ function
     - `Y` (10299 rows, 1 column) is created by merging `y_train` and `y_test` using __rbind()__ function
     - `Subject` (10299 rows, 1 column) is created by merging `subject_train` and `subject_test` using __rbind()__ function
-    - `Merged_Data` (10299 rows, 563 column) is created by merging Subject, `Y` and `X` using __cbind()__ function
+    - `Merged_Data` (10299 rows, 563 column) is created by merging `Subject`, `Y` and `X` using __cbind()__ function
 
 2. Extracts only the measurements on the mean and standard deviation for each measurement
     - `TidyData` (10299 rows, 88 columns) is created by subsetting `Merged_Data`, selecting only columns:
