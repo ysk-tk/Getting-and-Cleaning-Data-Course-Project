@@ -1,11 +1,6 @@
 library(dplyr)
 # 
 # getwd()
-# setwd("C:/Users/U0144480/Downloads/getdata_projectfiles_UCI HAR Dataset/UCI HAR Dataset")
-# X_test <- read_delim("./test/X_test.txt", delim=" ", col_names = FALSE)
-# str(X_test)
-# head(X_test)
-
 
 fileUrl = "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
 
